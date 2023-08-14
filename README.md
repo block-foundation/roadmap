@@ -36,7 +36,7 @@
 
 </div>
 
-**Welcome to the official roadmap of The Block Foundation. This document outlines our vision, objectives, and planned milestones. Our mission is to [MISSION STATEMENT HERE].**
+**Welcome to the official roadmap of The Block Foundation. Our mission revolves around enabling architects to regain initiative, addressing the housing mismatch through blockchain technology, and breaking free from traditional constraints of housing finance.**
 
 ## Introduction
 
